@@ -4,6 +4,8 @@ Composable component to play videos in any Iced application built on the excelle
 
 <img src=".media/screenshot.png" width="50%" />
 
+<video src=".media/test.mp4">
+
 ## Overview
 
 In general, this supports anything that [`gstreamer/playbin`](https://gstreamer.freedesktop.org/documentation/playback/playbin.html?gi-language=c) supports.
