@@ -2,9 +2,9 @@
 
 Composable component to play videos in any Iced application built on the excellent GStreamer library.
 
-<img src=".media/screenshot.png" width="50%" />
+<!-- <img src=".media/screenshot.png" width="50%" /> -->
 
-<video src=".media/test.mp4">
+<video src=".media/test.mp4" />
 
 ## Overview
 
